@@ -1,0 +1,174 @@
+.wrapper{
+	background-color: rgb(51,51,51);
+	min-height: 75px;
+	overflow: hidden;
+}
+.logo{
+	width: 10%;
+	min-height: 75px;
+	float: left;
+}
+.search{
+	width: 25%;
+	min-height: 75px;
+	float: left;
+}
+.up{
+	min-height: 18px;
+}
+.middle{
+	min-height: 35px;
+	background-color: white;
+	text-align: center;
+	font-size: 20px;
+	color: lightgray;
+	font-family:cursive;
+}
+.searchlogo{
+	width: 4%;
+	min-height: 75px;
+	float: left;
+}
+.service{
+	width: 49%;
+	min-height: 75px;
+	float: left;
+	font-family: helvetica;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+}
+.login{
+	width: 12%;
+	min-height: 75px;
+	float: left;
+	color: teal;
+	font-size: 25px;
+	text-align: center;
+}
+.wrapper2{
+	overflow: hidden;
+}
+.blog{
+	min-height: 1000px;
+	background-color: white;
+	width: 70%;
+	float: left;
+	box-shadow: 10px 10px 5px gray;
+}
+.contact{
+	min-height: 400px;
+	background-color: lightgreen;
+	width: 29%;
+	float: right;
+	font-size: 28px;
+	text-decoration: none;
+}
+.line{
+	background-color:orange;
+	min-height: 6px;
+}
+.linkskeep{
+	background-color: white;
+	min-height: 90px;
+	overflow: hidden;
+}
+.linklogo{
+	text-align: center;
+	width: 10%;
+	min-height: 40px;
+	float: left;
+}
+.linkbreaker1{
+	width:51.76%;
+	min-height: 40px;
+	float: left;
+}
+.name1{
+	background-color: rgb(217,83,79);
+	color: white;
+	text-align: center;
+	width: 10%;
+	min-height: 54px;
+	font-size: 17px;
+	float: left;
+	font-family: sans-serif;
+	border: 1.6px solid green;
+}
+.linkbreaker2{
+	width: 2.5%;
+	min-height: 40px;
+	float: left;
+}
+.name2{
+	background-color: rgb(245,165,65);
+	color: white;
+	text-align: center;
+	width: 10%;
+	min-height: 54px;
+	font-size: 17px;
+	float: left;
+	font-family: sans-serif;
+	border: 1.6px solid gray;
+}
+.linkbreaker3{
+	
+	width: 2.5%;
+	min-height: 40px;
+	float: left;
+}
+.name3{
+	background-color:rgb(119,142,156);
+	color: white;
+	text-align: center;
+	width: 10%;
+	min-height: 54px;
+	font-size: 17px;
+	float: left;
+	font-family: sans-serif;
+	border: 1.6px solid teal;
+}
+.linkbreaker4{
+	width: 2.5%;
+	min-height: 40px;
+	float: left;
+}
+.line2{
+	background-color: white;
+	min-height: 2px;
+}
+.unlocklink{
+	background-color:rgb(90,180,90);
+	min-height: 40px;
+	text-align: center;
+	color: white;
+	font-family: unset;
+	font-size: 32px;
+	font-family:sans-serif ;
+}
+.viewwrapper{
+	background-color: white;
+	min-height: 600px;
+	color: black;
+
+}
+.fblink{
+	text-decoration: none;
+	text-align: center;
+	font-size: 20px;
+}
+.twitterlink{
+	text-align: center;
+	text-decoration: none;
+	font-size: 20px;
+}
+.githublink{
+	text-align: center;
+	text-decoration: none;
+	font-size: 20px;
+}
+.fiverrlink{
+	text-align: center;
+	text-decoration: none;
+	font-size: 20px;
+}
